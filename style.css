@@ -1,0 +1,21 @@
+.black {
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+.white {
+    background-color: whitesmoke;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+.checker {
+    display: inline-flex;
+    border-style: solid;
+    border-width: 4px;
+}
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
